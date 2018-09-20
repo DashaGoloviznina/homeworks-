@@ -7,3 +7,6 @@
 4. история 20 века
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B5%D0%B1%D0%BE_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D1%8F.jpg/300px-%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B5%D0%B1%D0%BE_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D1%8F.jpg)
+
+№	|Описание	|Ссылка на работу
+---|:---:|---:
