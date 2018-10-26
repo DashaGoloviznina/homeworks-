@@ -11,6 +11,6 @@
 №	|Описание	|Ссылка на работу
 ---|:---:|---:
 **1** | Домашнее задание №1| https://github.com/DashaGoloviznina/python-dh-hw/blob/master/HW1.ipynb
-**2** | Домашнее задание №2| https://github.com/DashaGoloviznina/python-dh-hw/blob/master/HW2.ipynb
+**2** | Домашнее задание №2| 
 **3** | |
 **4** | |
