@@ -12,5 +12,5 @@
 ---|:---:|---:
 **1** | Домашнее задание №1| https://github.com/DashaGoloviznina/python-dh-hw/blob/master/HW1.ipynb
 **2** | Домашнее задание №2| https://github.com/DashaGoloviznina/python-dh-hw/blob/master/HW2.ipynb
-**3** | |
+**3** | Домашнее задание №3| https://github.com/DashaGoloviznina/python-dh-hw/blob/master/HW3.ipynb
 **4** | |
